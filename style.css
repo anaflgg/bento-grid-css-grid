@@ -31,7 +31,7 @@
 }
 
 body {
-  font-size: 25px;
+  font-size: 1rem;
   background-color: var(--bg);
   color: var(--black);
   min-height: 100vh;
@@ -111,7 +111,7 @@ img {
 .card-3 {
   background-color: var(--yellow-500);
   padding-bottom: 0;
-  padding-right: 6rem;
+  padding-right: 1.5rem;
 }
 
 .card-3 p {
@@ -216,7 +216,6 @@ img {
         max-width: 1100px; 
         gap: 1.5rem;
         grid-template-columns: repeat(4, 1fr);
-        grid-template-rows: repeat(5, auto);
     }
 
     .card-1 {
@@ -253,6 +252,7 @@ img {
         flex-direction: row;
         text-align: left;
         align-items: center;
+        gap: 2rem;
     }
 
     .card-6 {
