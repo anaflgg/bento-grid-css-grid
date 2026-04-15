@@ -1,4 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@font-face {
+    font-family:'DM Sans', sans-serif;
+    src: url(./assets/fonts/DMSans-Italic-VariableFont_opsz\,wght.ttf);
+    src: url(./assets/fonts/DMSans-VariableFont_opsz\,wght.ttf);
+}
 
 :root {
   --purple-100: hsl(254, 88%, 90%);
