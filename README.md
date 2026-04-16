@@ -59,5 +59,5 @@ Este é um projeto estático, não precisa instalar nada.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/anaflgg/bento-grid-main.git
+git clone https://github.com/anaflgg/bento-grid-css-grid.git
 ```
