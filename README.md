@@ -6,7 +6,7 @@
 
 🔗 Desafio original: https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj
 
-### ✨ [Veja o site ao vivo aqui!](https://anaflgg.github.io/bento-grid-main/)
+### ✨ [Veja o site ao vivo aqui!](https://anaflgg.github.io/bento-grid-css-grid/)
 
 ---
 
